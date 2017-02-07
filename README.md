@@ -24,7 +24,7 @@ import (
         "log"
 	    "net/http"
         "github.com/gorilla/mux"
-        sw "github.build.ge.com/aviation-intelligent-airport/swagger-ui.git"
+        sw "github.com/predixdeveloperACN/swagger-ui"
 )
 const base_path = "/api/v1/"
 func SetupRestServer() {
