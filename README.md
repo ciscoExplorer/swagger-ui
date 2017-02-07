@@ -3,7 +3,7 @@ Library to display Swagger documentation in HTML format
 
 ## Install
 
-	go get github.build.ge.com/aviation-intelligent-airport/swagger-ui.git
+	go get github.com/predixdeveloperACN/swagger-ui
 	
 ## Prerequisite
 
