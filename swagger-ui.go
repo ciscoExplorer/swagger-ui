@@ -10,14 +10,14 @@ import (
 	"os"
 
 	// include static files
-	_ "github.com/predixdeveloperACN/swagger-ui/static"
-	_ "github.com/predixdeveloperACN/swagger-ui/static/css"
-	_ "github.com/predixdeveloperACN/swagger-ui/static/fonts"
-	_ "github.com/predixdeveloperACN/swagger-ui/static/images"
-	_ "github.com/predixdeveloperACN/swagger-ui/static/js"
-	_ "github.com/predixdeveloperACN/swagger-ui/static/lang"
-	_ "github.com/predixdeveloperACN/swagger-ui/static/lib"
-	_ "github.com/predixdeveloperACN/swagger-ui/static/json"
+	_ "github.com/ciscoExplorer/swagger-ui/static"
+	_ "github.com/ciscoExplorer/swagger-ui/static/css"
+	_ "github.com/ciscoExplorer/swagger-ui/static/fonts"
+	_ "github.com/ciscoExplorer/swagger-ui/static/images"
+	_ "github.com/ciscoExplorer/swagger-ui/static/js"
+	_ "github.com/ciscoExplorer/swagger-ui/static/lang"
+	_ "github.com/ciscoExplorer/swagger-ui/static/lib"
+	_ "github.com/ciscoExplorer/swagger-ui/static/json"
 )
 
 const (
